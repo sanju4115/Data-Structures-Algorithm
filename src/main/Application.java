@@ -15,7 +15,7 @@ import sorting.Sorting;
 
 public class Application {
 	public static void main(String[] args){
-		//int[] input = {};
+		int[] input = {};
 		System.out.println(findPossibleSmallestNumberMatchingPattern("MNMMM"));
         
 	}
