@@ -21,9 +21,9 @@ public class GasStationCircle {
             if(start == -1){
                 start = end;
             }
-            if(end == gasAvailable.length-1 && visitedOnce == false){
+            if(end == gasAvailable.length-1 && !visitedOnce){
                 visitedOnce = true;
-            }else if(end == gasAvailable.length-1 && visitedOnce == true){
+            }else if(end == gasAvailable.length-1 && visitedOnce){
                 return -1;
             }
             if(currentGas < 0){
@@ -48,8 +48,8 @@ public class GasStationCircle {
         }
 
         boolean allNegative = true;
-        for (int i = 0; i < diff.length; i++) {
-            if (diff[i] >= 0) {
+        for (int aDiff : diff) {
+            if (aDiff >= 0) {
                 allNegative = false;
                 break;
             }

@@ -36,7 +36,7 @@ class Comparators implements Comparator<Pair>{
 
 public class GroupElementsInSizeM {
 
-    public boolean group(int input[],int m){
+    private boolean group(int input[], int m){
         Map<Integer,Integer> count = new HashMap<Integer,Integer>();
         for(Integer i : input){
             int c = 1;
@@ -47,7 +47,13 @@ public class GroupElementsInSizeM {
             count.put(i, c);
         }
         
-        PriorityQueue<Pair> maxHeap = new PriorityQueue<Pair>(count.size(),new Comparators());
+        PriorityQueue<Pair> maxHeap = new PriorityQueue<>(count.size(), (o1, o2) -> {
+            if(o1.count <= o2.count){
+                return 1;
+            }else{
+                return -1;
+            }
+        });
         for(Integer s : count.keySet()){
             int c = count.get(s);
             //if any count is greater than len/m then this arrangement is not possible
@@ -80,8 +86,8 @@ public class GroupElementsInSizeM {
         GroupElementsInSizeM gps = new GroupElementsInSizeM();
         boolean r = gps.group(input1, 3);
         System.out.println(r);
-        for(int i=0; i < input1.length; i++){
-            System.out.println(input1[i]);
+        for (int anInput1 : input1) {
+            System.out.println(anInput1);
         }
     }
 }

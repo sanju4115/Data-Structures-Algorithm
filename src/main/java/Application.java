@@ -11,7 +11,7 @@ public class Application {
         
 	}
 	
-	static int findPossibleSmallestNumberMatchingPattern(String pattern) {
+	private static int findPossibleSmallestNumberMatchingPattern(String pattern) {
 		if(pattern == null){
 			return -1;
 		}

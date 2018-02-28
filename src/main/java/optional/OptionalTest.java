@@ -18,11 +18,11 @@ public class OptionalTest {
 
         MobileService mService = new MobileService();
 
-        int width = mService.getMobileScreenWidth(Optional.of(mobile));
+        int width = mService.getMobileScreenWidth(mobile);
         System.out.println("Apple iPhone 6s Screen Width = " + width);
 
         Mobile mobile2 = new Mobile(2015001, "Apple", "iPhone 6s", null);
-        int width2 = mService.getMobileScreenWidth(Optional.ofNullable(mobile2));
+        int width2 = mService.getMobileScreenWidth(mobile2);
         System.out.println("Apple iPhone 16s Screen Width = " + width2);
 
     }

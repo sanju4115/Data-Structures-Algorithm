@@ -27,9 +27,7 @@ public class ArrayAddition {
         }
         if(c != 0){
             int[] newResult = new int[result.length+1];
-            for(int t= newResult.length-1; t> 0; t--){
-                newResult[t] = result[t-1];
-            }
+            System.arraycopy(result, 0, newResult, 1, newResult.length - 1);
             newResult[0] = c;
             return newResult;
         }
@@ -42,8 +40,8 @@ public class ArrayAddition {
         int arr2[] = {1,6,8,2,6,7};
         ArrayAddition aa = new ArrayAddition();
         int result[] = aa.add(arr1, arr2);
-        for(int i=0; i < result.length; i++){
-            System.out.print(" " + result[i]);
+        for (int aResult : result) {
+            System.out.print(" " + aResult);
         }
     }
 }

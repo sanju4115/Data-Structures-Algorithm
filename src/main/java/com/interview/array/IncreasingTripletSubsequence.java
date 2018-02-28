@@ -16,17 +16,17 @@ public class IncreasingTripletSubsequence {
     public boolean increasingTriplet(int[] nums) {
         int T[] = new int[3];
         int len = 0;
-        for (int i = 0; i < nums.length; i++) {
+        for (int num : nums) {
             boolean found = false;
             for (int j = 0; j < len; j++) {
-                if (T[j] >= nums[i]) {
-                    T[j] = nums[i];
+                if (T[j] >= num) {
+                    T[j] = num;
                     found = true;
                     break;
                 }
             }
             if (!found) {
-                T[len++] = nums[i];
+                T[len++] = num;
             }
             if (len == 3) {
                 return true;

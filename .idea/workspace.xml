@@ -2,531 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de692403-db08-47d6-b910-d2314d6b9939" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/AdditiveNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/AdditiveNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/ArrayAddition.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ArrayAddition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/BestMeetingPoint.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/BestMeetingPoint.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/BuySellStockProfit.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/BuySellStockProfit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/CheckIfArrayElementsAreConsecutive.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/CheckIfArrayElementsAreConsecutive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/ChunkMerge.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ChunkMerge.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/CommonThreeSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/CommonThreeSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/CountInversionOfSize3.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/CountInversionOfSize3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/CountSmallerOnRight.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/CountSmallerOnRight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/DivideNumbersInEqualGroupWithClosestSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/DivideNumbersInEqualGroupWithClosestSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/DuplicateNumberDetection.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/DuplicateNumberDetection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/DuplicateWithinkIndices.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/DuplicateWithinkIndices.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/FindElementsOccurringNByKTimesTetris.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/FindElementsOccurringNByKTimesTetris.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/FirstPositiveMissing.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/FirstPositiveMissing.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/Flip0sMaximum1s.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/Flip0sMaximum1s.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/FourSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/FourSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/GasStationCircle.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/GasStationCircle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/GreedyTextJustification.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/GreedyTextJustification.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/GroupElementsInSizeM.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/GroupElementsInSizeM.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/HIndex.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/HIndex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/IncreasingSubsequnceOfLength3WithMaxProduct.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/IncreasingSubsequnceOfLength3WithMaxProduct.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/IncreasingTripletSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/IncreasingTripletSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/JumpGame.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/JumpGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/KadaneWrapArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/KadaneWrapArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/KthElementInArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/KthElementInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/KthLargestInTwoSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/KthLargestInTwoSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/LargerElementOnRight.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LargerElementOnRight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/LargestSubArrayWithEqual0sAnd1s.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LargestSubArrayWithEqual0sAnd1s.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/LeetCodeCandy.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LeetCodeCandy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/LongestConsecutiveSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LongestConsecutiveSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/LongestIncreasingSubSequenceOlogNMethod.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LongestIncreasingSubSequenceOlogNMethod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/LongestSameSumSpan.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LongestSameSumSpan.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/LongestSubstringWithAtMost2Char.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LongestSubstringWithAtMost2Char.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MaxNumberFromTwoArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaxNumberFromTwoArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MaxProductSubarray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaxProductSubarray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MaxRepeatingNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaxRepeatingNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumGap.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumGap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumIminusJSuchThatAiGTAj.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumIminusJSuchThatAiGTAj.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumMinimumArrangement.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumMinimumArrangement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumOfSubarrayOfSizeK.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumOfSubarrayOfSizeK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumSumPathTwoArrays.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumSumPathTwoArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MeetingRooms.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MeetingRooms.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MinimumDistanceBetweenTwoNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MinimumDistanceBetweenTwoNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MinimumNumberFromSequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MinimumNumberFromSequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MinimumSortedWhichSortsEntireArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MinimumSortedWhichSortsEntireArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MissingRanges.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MissingRanges.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MoveAllZerosToEnd.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MoveAllZerosToEnd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/MultiplyAllFieldsExceptOwnPosition.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MultiplyAllFieldsExceptOwnPosition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/NthElementOfCountNumberSequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/NthElementOfCountNumberSequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/NumberOfTrianglesInUnsortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/NumberOfTrianglesInUnsortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/PositiveAndNegativeNumberAlternatively.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/PositiveAndNegativeNumberAlternatively.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/PositiveAndNegativeNumberAlternativelyMaintainingOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/PositiveAndNegativeNumberAlternativelyMaintainingOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/RearrangeArrayPerIndex.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/RearrangeArrayPerIndex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/RearrangeSuchThatArriBecomesArrArri.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/RearrangeSuchThatArriBecomesArrArri.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/ReorderArrayByIndex.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ReorderArrayByIndex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/RepeatingAndMissingNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/RepeatingAndMissingNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/RotationWithMaxSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/RotationWithMaxSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/SelfCrossing.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SelfCrossing.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/ShortestPalindrome.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ShortestPalindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/SmallestIntegerNotRepresentedBySubsetSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SmallestIntegerNotRepresentedBySubsetSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/SortedArrayTransformation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SortedArrayTransformation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/StableMarriageProblem.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/StableMarriageProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/SubarrayWithGivenSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SubarrayWithGivenSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/SummaryRanges.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SummaryRanges.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/ThreeSumSmallerThanTarget.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ThreeSumSmallerThanTarget.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/TrappingWater.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/TrappingWater.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/TripletInArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/TripletInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/TripletSumLessThanTotal.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/TripletSumLessThanTotal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/TugOfWar.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/TugOfWar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/WaterContainer.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/WaterContainer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/WiggleSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/WiggleSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/array/ZigZagArrangement.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ZigZagArrangement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/ArithmeticProgressionSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/ArithmeticProgressionSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/BinarySearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/BinarySearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/CircularBinarySearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/CircularBinarySearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/CountNDistinctPairsWithDifferenceK.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/CountNDistinctPairsWithDifferenceK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/FirstOccurrenceOfNumberInSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/FirstOccurrenceOfNumberInSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/FloorAndCeilingSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/FloorAndCeilingSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MedianOfTwoSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MedianOfTwoSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MedianOfTwoSortedArrayOfDifferentLength.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MedianOfTwoSortedArrayOfDifferentLength.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MinimumInSortedRotatedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MinimumInSortedRotatedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MissingNumberInConsecutiveNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MissingNumberInConsecutiveNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/NumberOfPairWithXPowerYGreaterThanYPowerX.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/NumberOfPairWithXPowerYGreaterThanYPowerX.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/PeakElement.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/PeakElement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/SearchForRange.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/SearchForRange.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/SearchInsertPosition.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/SearchInsertPosition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/SortedAndRotatedArraySearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/SortedAndRotatedArraySearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/SquareRootOfNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/SquareRootOfNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/AddTwoNumberInBinaryRepresentation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/AddTwoNumberInBinaryRepresentation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/BitRotation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/BitRotation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/ByteAsStorage.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/ByteAsStorage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/CountBits.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/CountBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/CountingBitsTillNum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/CountingBitsTillNum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/DrawHorizontalLine.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/DrawHorizontalLine.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/FindNumberOccurringOnceOtherNumbers3Times.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/FindNumberOccurringOnceOtherNumbers3Times.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/GrayCode.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/GrayCode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/InsertMintoNiTojBits.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/InsertMintoNiTojBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/MaxProductWordLength.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/MaxProductWordLength.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/MissingNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/MissingNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/NextHigherAndNextLowerWithSameNumberBits.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/NextHigherAndNextLowerWithSameNumberBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/NextPowerOf2.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/NextPowerOf2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/NumberOccuringOddTimes.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/NumberOccuringOddTimes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/NumberOfBitsFlipToConvertNToM.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/NumberOfBitsFlipToConvertNToM.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/RealNumberToBinary.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/RealNumberToBinary.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/RepeatedDnaSequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/RepeatedDnaSequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/ReverseBits.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/ReverseBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/SquareOfNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/SquareOfNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/SwapOddEvenBits.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/SwapOddEvenBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/SwapTwoBits.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/SwapTwoBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/bits/WinnerWithBeautifulNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/WinnerWithBeautifulNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/BitonicSequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/BitonicSequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/BoxStacking.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/BoxStacking.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/BurstBalloons.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/BurstBalloons.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CoinChanging.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CoinChanging.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CoinChangingMinimumCoin.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CoinChangingMinimumCoin.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CountAs.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CountAs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CountNumberOfBinaryWithoutConsecutive1s.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CountNumberOfBinaryWithoutConsecutive1s.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CountNumberOfTreePreorder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CountNumberOfTreePreorder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CountNumberOfTreesInBST.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CountNumberOfTreesInBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CutRodToMinimizeCost.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CutRodToMinimizeCost.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CuttingRod.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CuttingRod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/DecodeWays.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/DecodeWays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/DiceThrowWays.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/DiceThrowWays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/DistinctSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/DistinctSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/DungeonGame.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/DungeonGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/EditDistance.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/EditDistance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/EggDropping.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/EggDropping.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/ExpressionEvaluation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/ExpressionEvaluation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/FibonacciSeries.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/FibonacciSeries.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/Immutable2DSumRangeQuery.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/Immutable2DSumRangeQuery.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/Knapsack01.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/Knapsack01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestCommonSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestCommonSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestCommonSubstring.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestCommonSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestEvenLengthSubstringOfEqualHalf.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestEvenLengthSubstringOfEqualHalf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestIncreasingPath.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestIncreasingPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestIncreasingSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestIncreasingSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestPalindromicSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestPalindromicSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MatrixMultiplicationCost.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MatrixMultiplicationCost.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaxSumForNonAdjacentElements.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaxSumForNonAdjacentElements.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximizeSkiGates.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximizeSkiGates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumLengthChainPair.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumLengthChainPair.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumProductCutting.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumProductCutting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumRectangularSubmatrixOf1s.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumRectangularSubmatrixOf1s.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumSizeSubMatrix.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumSizeSubMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumSumSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumSumSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinCostPath.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinCostPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinJumpToReachEnd.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinJumpToReachEnd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinimumCostTrainTicket.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinimumCostTrainTicket.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinimumNumberOfPerfectSquares.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinimumNumberOfPerfectSquares.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinimumTriangleSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinimumTriangleSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/NPotGold.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/NPotGold.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/NumberOfPathsInMxNMatrix.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/NumberOfPathsInMxNMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/NumberOfWaysToScorePoints.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/NumberOfWaysToScorePoints.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/OptimalTreeSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/OptimalTreeSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/PaintHouse.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/PaintHouse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/PalindromePartition.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/PalindromePartition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/PhoneDialNumberOfCombinationOfSizeK.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/PhoneDialNumberOfCombinationOfSizeK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/RegexMatching.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/RegexMatching.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/RemoveFromEndToMake2IntoMinGreaterThanMax.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/RemoveFromEndToMake2IntoMinGreaterThanMax.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/ScrambledString.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/ScrambledString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/StockBuySellKTransactions.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/StockBuySellKTransactions.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/SubRectangularMatrixWithMaximumSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/SubRectangularMatrixWithMaximumSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/SubsetSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/SubsetSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/SubsquareSurrounedByXs.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/SubsquareSurrounedByXs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/SymbolExpressionEvaluation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/SymbolExpressionEvaluation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/TextJustification.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/TextJustification.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/TwoStringInterleavingToFormThird.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/TwoStringInterleavingToFormThird.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/UglyNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/UglyNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/WeightedJobSchedulingMaximumProfit.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/WeightedJobSchedulingMaximumProfit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/dynamic/WildCardMatching.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/WildCardMatching.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/geometry/ClosestPairOfPoints.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/ClosestPairOfPoints.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/geometry/GrahamScanConvexHull.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/GrahamScanConvexHull.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/geometry/JarvisMarchConvexHull.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/JarvisMarchConvexHull.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/geometry/MaximumPointsOnSameLine.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/MaximumPointsOnSameLine.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/geometry/SkylineDrawing.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/SkylineDrawing.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/AlientDictionary.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/AlientDictionary.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/AllCyclesInDirectedGraphJohnson.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/AllCyclesInDirectedGraphJohnson.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/AllCyclesInDirectedGraphTarjan.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/AllCyclesInDirectedGraphTarjan.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/ArticulationPoint.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/ArticulationPoint.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/BellmanFordShortestPath.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/BellmanFordShortestPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/BinaryMaxHeap.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/BinaryMaxHeap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/BinaryMinHeap.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/BinaryMinHeap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/BiparteGraph.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/BiparteGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/Boggle.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/Boggle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/Bridge.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/Bridge.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/CloneDirectedGraph.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CloneDirectedGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/CloneGraph.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CloneGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/ConvertOneWordToAnother.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/ConvertOneWordToAnother.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/CourseSchedule.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CourseSchedule.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/CycleInDirectedGraph.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CycleInDirectedGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/CycleUndirectedGraph.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CycleUndirectedGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/DAGShortestPathTopological.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/DAGShortestPathTopological.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/DijkstraShortestPath.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/DijkstraShortestPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/DirectedGraphConnectivity.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/DirectedGraphConnectivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/DisjointSet.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/DisjointSet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/EulerianPathAndCircuit.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/EulerianPathAndCircuit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/EvaluateDivison.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/EvaluateDivison.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/FillOsWIthXsIfSurroundedByXs.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/FillOsWIthXsIfSurroundedByXs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/FloodFillAlgorithm.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/FloodFillAlgorithm.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/FloydWarshallAllPairShortestPath.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/FloydWarshallAllPairShortestPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/FordFulkerson.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/FordFulkerson.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/Graph.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/Graph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/GraphColoring.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/GraphColoring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/GraphTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/GraphTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/HamiltonianCycle.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/HamiltonianCycle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/KruskalMST.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/KruskalMST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/MaximumBiparteMatching.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/MaximumBiparteMatching.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/MinimumHeightTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/MinimumHeightTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/NumberOfIsland.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/NumberOfIsland.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/NumberOfIslandDynamic.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/NumberOfIslandDynamic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/NumberofTriangles.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/NumberofTriangles.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/PrimMST.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/PrimMST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/PrintAllPathFromSourceToDestination.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/PrintAllPathFromSourceToDestination.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/ShortestDistanceFromExit.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/ShortestDistanceFromExit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/StronglyConnectedComponent.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/StronglyConnectedComponent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/TarjanStronglyConnectedComponent.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/TarjanStronglyConnectedComponent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/TopologicalSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/TopologicalSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/TransitiveClosure.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/TransitiveClosure.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/TravelingSalesmanHeldKarp.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/TravelingSalesmanHeldKarp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/ValidTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/ValidTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/WallsAndGates.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/WallsAndGates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/graph/WordLadder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/WordLadder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/hackerrank/PossibleSmallestNumberMatchingPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/hackerrank/PossibleSmallestNumberMatchingPattern.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/hackerrank/QualifiedNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/hackerrank/QualifiedNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/AddNumberRepresentedByLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/AddNumberRepresentedByLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/CopyLinkListWIthArbitPointer.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/CopyLinkListWIthArbitPointer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/DeleteDuplicateNodes.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/DeleteDuplicateNodes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/DeleteNAfterMNodes.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/DeleteNAfterMNodes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/DeleteNodeWithGreaterValueOnRight.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/DeleteNodeWithGreaterValueOnRight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/DoubleLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/DoubleLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/Flatten2DList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/Flatten2DList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/FlattenLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/FlattenLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/InsertionSortLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/InsertionSortLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/LRUCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LRUCache.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/LRUCacheLeetCode.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LRUCacheLeetCode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/LinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/LinkListIsPalindrome.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LinkListIsPalindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/LinkListToCompleteBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LinkListToCompleteBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/LoopInLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LoopInLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/MergeForLargestSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/MergeForLargestSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/MergeSortLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/MergeSortLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/MiddleElementOfLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/MiddleElementOfLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/MultiplyTwoNumbersLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/MultiplyTwoNumbersLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/QuickSortSingleLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/QuickSortSingleLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/RemoveDuplicatesSortedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/RemoveDuplicatesSortedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/RemoveMiddleElementsOfLineSegment.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/RemoveMiddleElementsOfLineSegment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/ReorderList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ReorderList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/ReverseAlternateKNodes.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ReverseAlternateKNodes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/ReverseAlternateNodeAndAppendAtEnd.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ReverseAlternateNodeAndAppendAtEnd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/ReverseKNodes.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ReverseKNodes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/RotateList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/RotateList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/ShuffleMerge.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ShuffleMerge.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/SortNearlySortedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/SortNearlySortedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/SortedCircularLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/SortedCircularLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/SortedLLToBalancedBST.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/SortedLLToBalancedBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/StackWithLinkListMiddleOperation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/StackWithLinkListMiddleOperation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/SwapTwoNodesInDoubleLL.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/SwapTwoNodesInDoubleLL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/linklist/TripletToSumInLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/TripletToSumInLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/AddingTwoSetOfIntervals.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/AddingTwoSetOfIntervals.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/AngleBetweenHourAndMinuteHand.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/AngleBetweenHourAndMinuteHand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/BulbSwitcher.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/BulbSwitcher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/CandiesProblem.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/CandiesProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/ContainsNumberWithinKDistance.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/ContainsNumberWithinKDistance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/ConvertNumberIntoBase26.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/ConvertNumberIntoBase26.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/CountRanges.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/CountRanges.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/DayDifferenceBetweenTwoDates.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/DayDifferenceBetweenTwoDates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/DifferenceBetweenTwoTime.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/DifferenceBetweenTwoTime.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/FindingCelebrity.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/FindingCelebrity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/FloatPointConversion.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/FloatPointConversion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/FourPointsFormSquare.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/FourPointsFormSquare.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/GetKthPermutation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/GetKthPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/HammingDistanceBetweenPair.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/HammingDistanceBetweenPair.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/InsertInterval.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/InsertInterval.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/IntegerListParser.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/IntegerListParser.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/KthLargestInRowiseColumnWiseSorted2DArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/KthLargestInRowiseColumnWiseSorted2DArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/LoadBalancers.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/LoadBalancers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/NestedIterator.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/NestedIterator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/NumberToWord.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/NumberToWord.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/PrimeNumbersBeforeN.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/PrimeNumbersBeforeN.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/Read4Function.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/Read4Function.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/RomanNumberToDecimal.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/RomanNumberToDecimal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/misc/SparseTableRangeMinimumQuery.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/SparseTableRangeMinimumQuery.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/Fill2DMatrixWith1.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/Fill2DMatrixWith1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/GameOfLife.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/GameOfLife.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/LongestConsecutiveIntegerInUnsorted2DArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/LongestConsecutiveIntegerInUnsorted2DArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MatrixCalculation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MatrixCalculation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MatrixFindAllSubSquareRectangleMatrix.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MatrixFindAllSubSquareRectangleMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MatrixInDiagonalOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MatrixInDiagonalOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MatrixOf0sAnd1s.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MatrixOf0sAnd1s.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MoveCellPerCellValue.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MoveCellPerCellValue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/Mutable2DSumRangeQuery.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/Mutable2DSumRangeQuery.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/RotateImage.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/RotateImage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/ShortestDistanceFromAllBuildings.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/ShortestDistanceFromAllBuildings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/SmallestRectangleBlackPixel.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/SmallestRectangleBlackPixel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/SpiralGeneration.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/SpiralGeneration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/SpiralPrinting.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/SpiralPrinting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multiarray/TilingProblem.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/TilingProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/BoundedBlockingQueue.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/BoundedBlockingQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/CountingWord.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/CountingWord.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/FillupMatrix.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/FillupMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/MinMaxKeeper.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/MinMaxKeeper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/PrintInSequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/PrintInSequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/RealTimeCounter.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/RealTimeCounter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/SingleQueueDomainTableUpdate.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/SingleQueueDomainTableUpdate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/SpinLockMutex.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/SpinLockMutex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/ThreadPoolExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/ThreadPoolExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/ThreadPoolImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/ThreadPoolImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/AggregateNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/AggregateNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/AllStrobogrammaticNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/AllStrobogrammaticNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/ArithemeticProgressionExists.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/ArithemeticProgressionExists.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/ArrayMultiplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/ArrayMultiplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/BasicCalculator.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/BasicCalculator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/BinomialCoefficient.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/BinomialCoefficient.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/ConvertToBaseN.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/ConvertToBaseN.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/CountNoOf2s.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/CountNoOf2s.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/CountNumbersNotIncluding4.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/CountNumbersNotIncluding4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/DivisionWithoutDivisionOperator.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/DivisionWithoutDivisionOperator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/EuclideanAlgoForGCD.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/EuclideanAlgoForGCD.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/FactorialOfLargeNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/FactorialOfLargeNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/GenerateSignature.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/GenerateSignature.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/LargestMultipleOf3inArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/LargestMultipleOf3inArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/LuckyNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/LuckyNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/MedianOf3Number.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/MedianOf3Number.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/MthNumberInNSizeArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/MthNumberInNSizeArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/NBy2PairSumToK.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/NBy2PairSumToK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/NextLargestPalindrome.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/NextLargestPalindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/NotIncluding4.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/NotIncluding4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/NumberOfCombinationsForStairs.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/NumberOfCombinationsForStairs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/PermutationBiggerThanNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/PermutationBiggerThanNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/PermutationLargerThanGivenArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/PermutationLargerThanGivenArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/PowerFunction.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/PowerFunction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/RearrangeNumberInArrayToFormLargestNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/RearrangeNumberInArrayToFormLargestNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/RussianPeasantMultiplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/RussianPeasantMultiplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/SmallestNumberGreaterThanGiveNumberIncreasingSequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/SmallestNumberGreaterThanGiveNumberIncreasingSequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/SquareRoot.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/SquareRoot.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/StrobogrammaticNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/StrobogrammaticNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/Trailing0sinFactorial.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/Trailing0sinFactorial.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/number/UniquePartitionOfInteger.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/UniquePartitionOfInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/playground/TestInnerClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/playground/TestInnerClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/random/Rand7UsingRand5.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/random/Rand7UsingRand5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/random/RandomCountrySelectionByPopluation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/random/RandomCountrySelectionByPopluation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/random/SelectMRandomNumbersInStream.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/random/SelectMRandomNumbersInStream.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/random/ShuffleArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/random/ShuffleArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/AllAdjacentCombination.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/AllAdjacentCombination.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/Bracketology.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/Bracketology.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/ChainWordsToFormCircle.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/ChainWordsToFormCircle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/Combination.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/Combination.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/CombinationOfSizeK.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/CombinationOfSizeK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/CombinationWithStar.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/CombinationWithStar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/DifferentWaysToAddParentheses.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/DifferentWaysToAddParentheses.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/FancyShuffle.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/FancyShuffle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/InterpretationOfArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/InterpretationOfArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/KeyPadPermutation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/KeyPadPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/LongestAbsolutePath.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/LongestAbsolutePath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/MinimumEditForReversePolishNotation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/MinimumEditForReversePolishNotation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/NQueenProblem.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/NQueenProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/OneEditApart.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/OneEditApart.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/OperatorAdditionForTarget.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/OperatorAdditionForTarget.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintAllPathFromTopLeftToBottomRight.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintAllPathFromTopLeftToBottomRight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintAllSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintAllSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintArrayInAdjacentWay.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintArrayInAdjacentWay.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintArrayInCustomizedFormat.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintArrayInCustomizedFormat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintSumCombination.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintSumCombination.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/ReconstructItinerary.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/ReconstructItinerary.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/RemoveInvalidParenthesis.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/RemoveInvalidParenthesis.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/RestoreIPAddresses.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/RestoreIPAddresses.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/SetPairTogether.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/SetPairTogether.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/StringInterleaving.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/StringInterleaving.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/StringPermutation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/StringPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/StringPermutationRotation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/StringPermutationRotation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/SudokuSolver.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/SudokuSolver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/WordCombination.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/WordCombination.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/recursion/WordPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/WordPattern.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/regex/MultiSpaceReplacement.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/regex/MultiSpaceReplacement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/sort/CountingSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/CountingSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/sort/HeapSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/HeapSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/sort/IterativeQuickSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/IterativeQuickSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/MergeSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/sort/PanCakeSorting.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/PanCakeSorting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/QuickSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/sort/RadixSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/RadixSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/sort/Sort0toN3.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/Sort0toN3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/sort/SortArrayByFrequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/SortArrayByFrequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/CircularQueue.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/CircularQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/MaximumHistogram.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/MaximumHistogram.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/MedianFinder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/MedianFinder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/RealTimeCounter.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RealTimeCounter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/RemoveDuplicateMaintainingOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RemoveDuplicateMaintainingOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/RemoveExtraBrackets.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RemoveExtraBrackets.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/ReverseStackUsingRecursion.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/ReverseStackUsingRecursion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/SimplyPath.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/SimplyPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/StockSpanProblem.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/StockSpanProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/AnagramOfFirstAsSubstring.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/AnagramOfFirstAsSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/CycleLeaderIteration.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/CycleLeaderIteration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/GroupAnagramsTogether.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/GroupAnagramsTogether.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/InPlaceTransformationOfString.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/InPlaceTransformationOfString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/LexicographicRankInPermutation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/LexicographicRankInPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/LongestPalindromeSubstring.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/LongestPalindromeSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/LongestSubstringWithKDistinctCharacters.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/LongestSubstringWithKDistinctCharacters.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/LongestSubstringWithoutRepetingCharacter.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/LongestSubstringWithoutRepetingCharacter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/MultiplyStrings.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/MultiplyStrings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/NTMatch.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/NTMatch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/PalindromePair.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/PalindromePair.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/PrintAnagramTogether.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/PrintAnagramTogether.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/RabinKarpSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/RabinKarpSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/RearrangeDuplicateCharsdDistanceAway.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/RearrangeDuplicateCharsdDistanceAway.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/RemoveConsecutiveDuplicate.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/RemoveConsecutiveDuplicate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/RunLengthEncoding.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/RunLengthEncoding.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/SmallestWindowContaingAllCharacters.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/SmallestWindowContaingAllCharacters.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/StringEncoderDecoder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/StringEncoderDecoder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/SubstringSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/SubstringSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/SubtringWithConcatentationOfWords.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/SubtringWithConcatentationOfWords.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/ValidPalindrome.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/ValidPalindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/ValidWordAbbreviation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/ValidWordAbbreviation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/WordAbbreviationCombination.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/WordAbbreviationCombination.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/string/ZAlgorithm.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/ZAlgorithm.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/suffixprefix/SuffixArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/suffixprefix/SuffixArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/suffixprefix/SuffixTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/suffixprefix/SuffixTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/suffixprefix/TernaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/suffixprefix/TernaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/suffixprefix/Trie.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/suffixprefix/Trie.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/AVLTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/AVLTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/AddGreaterValueNodeToEveryNode.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/AddGreaterValueNodeToEveryNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ArbitaryTreeToChildSumTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ArbitaryTreeToChildSumTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BSTOneChildPreOrderTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BSTOneChildPreOrderTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BSTSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BSTSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeFromParentRepresentation.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeFromParentRepresentation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeMaximumPathSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeMaximumPathSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeToCircularLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeToCircularLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeToDoubleLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeToDoubleLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeToSortedLinkList.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeToSortedLinkList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/BoundaryTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BoundaryTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ClosestValueBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ClosestValueBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ConnectNodesAtSameLevel.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConnectNodesAtSameLevel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructAllBinaryTreeFromInorderTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructAllBinaryTreeFromInorderTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructBSTFromPreOrderArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructBSTFromPreOrderArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructFullTreeFromPreOrderPostOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructFullTreeFromPreOrderPostOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructTreeFromInOrderPreOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructTreeFromInOrderPreOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructTreeFromLevelOrderInOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructTreeFromLevelOrderInOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructTreeFromPreOrderTraversalWith0or2Child.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructTreeFromPreOrderTraversalWith0or2Child.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ContructTreeFromInOrderTraversalRootGreaterThanChild.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ContructTreeFromInOrderTraversalRootGreaterThanChild.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/ContructTreeFromInorderPostOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ContructTreeFromInorderPostOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/CountNodesCompleteTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/CountNodesCompleteTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/CountNumberOfSmallerElementOnRight.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/CountNumberOfSmallerElementOnRight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/CountUnivalueTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/CountUnivalueTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/CousinNodes.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/CousinNodes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/DegenerateBinaryTreeToSortedLL.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/DegenerateBinaryTreeToSortedLL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/DiameterOfTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/DiameterOfTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/FenwickTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/FenwickTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/FlattenLinkListToBinaryTreePreorder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/FlattenLinkListToBinaryTreePreorder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/HeightBalanced.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/HeightBalanced.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/HuffmanEncoding.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/HuffmanEncoding.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/IdenticalTrees.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IdenticalTrees.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/InorderSuccessor.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/InorderSuccessor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/IntervalTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IntervalTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/IsBST.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IsBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/IsCompleteBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IsCompleteBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/IsPreOrderArrayBST.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IsPreOrderArrayBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/KClosestValueInBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/KClosestValueInBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/LargestBSTInBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LargestBSTInBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/LargestIndependentSetInTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LargestIndependentSetInTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/LeavesOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LeavesOfBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/LevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LevelOrderTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/LevelOrderTraversalInReverse.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LevelOrderTraversalInReverse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/LongestConsecutiveSequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LongestConsecutiveSequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/LowestCommonAncestorInBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LowestCommonAncestorInBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/LowestCommonAncestoryBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LowestCommonAncestoryBinarySearchTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/MorrisTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/MorrisTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/NextInorderSuccessorIterator.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/NextInorderSuccessorIterator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/NextInorderSuccessorOfTwoTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/NextInorderSuccessorOfTwoTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/NodesAtDistanceK.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/NodesAtDistanceK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/NodesWithNoSibling.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/NodesWithNoSibling.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/PathSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/PathSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/PopulateInOrderSuccessor.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/PopulateInOrderSuccessor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/PrintPostOrderFromPreOrderInOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/PrintPostOrderFromPreOrderInOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/PrintTwoBSTInSortedForm.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/PrintTwoBSTInSortedForm.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/RedBlackTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/RedBlackTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/RootToLeafToSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/RootToLeafToSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SameTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SameTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SegmentTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SegmentTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SegmentTreeMinimumRangeQuery.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SegmentTreeMinimumRangeQuery.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SerializeDeserializeBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SerializeDeserializeBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SinkNegativeToBottom.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SinkNegativeToBottom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SizeOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SizeOfBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SortedArrayToBST.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SortedArrayToBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SortedOrderPrintCompleteTreeArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SortedOrderPrintCompleteTreeArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SuccinctTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SuccinctTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/SumTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SumTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/TreeIsomorphism.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/TreeIsomorphism.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/TreeTraversalInSpiralOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/TreeTraversalInSpiralOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/TreeTraversalLevelByLevel.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/TreeTraversalLevelByLevel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/TreeTraversals.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/TreeTraversals.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/UpsidedownBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/UpsidedownBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/VertexCoverBinaryTreeDP.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/VertexCoverBinaryTreeDP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/VerticalOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/VerticalOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/interview/tree/VerticalTreePrinting.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/VerticalTreePrinting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dynamic/KnapSackProblem.java" afterPath="$PROJECT_DIR$/src/main/java/dynamic/KnapSackProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dynamic/LongestCommonSubsequence.java" afterPath="$PROJECT_DIR$/src/main/java/dynamic/LongestCommonSubsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/generic/GenericType.java" afterPath="$PROJECT_DIR$/src/main/java/generic/GenericType.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Application.java" afterPath="$PROJECT_DIR$/src/main/java/Application.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/model/Item.java" afterPath="$PROJECT_DIR$/src/main/java/model/Item.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/optional/DisplayFeatures.java" afterPath="$PROJECT_DIR$/src/main/java/optional/DisplayFeatures.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/optional/Mobile.java" afterPath="$PROJECT_DIR$/src/main/java/optional/Mobile.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/optional/MobileService.java" afterPath="$PROJECT_DIR$/src/main/java/optional/MobileService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/optional/OptionalTest.java" afterPath="$PROJECT_DIR$/src/main/java/optional/OptionalTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/optional/ScreenResolution.java" afterPath="$PROJECT_DIR$/src/main/java/optional/ScreenResolution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion/StringPermutations.java" afterPath="$PROJECT_DIR$/src/main/java/recursion/StringPermutations.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/recursion/StringsNBits.java" afterPath="$PROJECT_DIR$/src/main/java/recursion/StringsNBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/searching/FllippingOIntoX.java" afterPath="$PROJECT_DIR$/src/main/java/searching/FllippingOIntoX.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/searching/LargestIsland.java" afterPath="$PROJECT_DIR$/src/main/java/searching/LargestIsland.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/searching/Search.java" afterPath="$PROJECT_DIR$/src/main/java/searching/Search.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/searching/StringInMatrix.java" afterPath="$PROJECT_DIR$/src/main/java/searching/StringInMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sorting/Sorting.java" afterPath="$PROJECT_DIR$/src/main/java/sorting/Sorting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/stack/IntStack.java" afterPath="$PROJECT_DIR$/src/main/java/stack/IntStack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Data-Structures-Algorithm.iml" afterPath="$PROJECT_DIR$/.idea/Data-Structures-Algorithm.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Application.java" afterPath="$PROJECT_DIR$/src/main/java/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/optional/MobileService.java" afterPath="$PROJECT_DIR$/src/main/java/optional/MobileService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/optional/OptionalTest.java" afterPath="$PROJECT_DIR$/src/main/java/optional/OptionalTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -538,20 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GenericType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/generic/GenericType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/Item.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -567,7 +31,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -576,17 +49,17 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/optional/MobileService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OptionalTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OptionalTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/optional/OptionalTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -609,6 +82,21 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayAddition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/array/ArrayAddition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -620,28 +108,6 @@
             <state relative-caret-position="75">
               <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -666,10 +132,12 @@
         <option value="$PROJECT_DIR$/src/optional/OptionalTest.java" />
         <option value="$PROJECT_DIR$/src/optional/ScreenResolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/generic/GenericType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/optional/OptionalTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/optional/OptionalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/optional/MobileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/interview/array/ArrayAddition.java" />
       </list>
     </option>
   </component>
@@ -757,6 +225,31 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data-Structures-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Structures-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data-Structures-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Structures-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data-Structures-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Structures-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -774,25 +267,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="optional" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structures-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structures-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structures-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structures-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structures-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structures-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -835,7 +309,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OptionalTest">
+  <component name="RunManager" selected="Application.ArrayAddition">
+    <configuration name="ArrayAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.interview.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.interview.array.ArrayAddition" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Data-Structures-Algorithm" />
+      <envs />
+    </configuration>
     <configuration name="OptionalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -936,9 +429,14 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.OptionalTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ArrayAddition" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.OptionalTest" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.ArrayAddition" />
+        <item index="1" class="java.lang.String" itemvalue="Application.OptionalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -952,12 +450,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519820320788</updated>
-      <workItem from="1519820322479" duration="1737000" />
+      <workItem from="1519820322479" duration="3387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1737000" />
+    <option name="totallyTimeSpent" value="3387000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -974,18 +472,18 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2037037" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19373219" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.122507125" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19088319" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5911681" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20028612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1004,11 +502,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -1021,14 +547,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1052,16 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generic/GenericType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1071,6 +579,56 @@
             <element signature="e#293#294#0" expanded="true" />
             <element signature="e#341#342#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Data-Structures-Algorithm.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/hackerrank/PossibleSmallestNumberMatchingPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1086,15 +644,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/optional/MobileService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/optional/OptionalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1106,37 +683,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/optional/DisplayFeatures.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/optional/OptionalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="492" column="30" lean-forward="false" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/array/ArrayAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
