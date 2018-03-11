@@ -14,6 +14,8 @@ public class Application {
 		//merge2
 
 		//merge1
+
+		//merge4
 		System.out.println(findPossibleSmallestNumberMatchingPattern("MNMMM"));
 
 
