@@ -13,8 +13,8 @@ import java.util.PriorityQueue;
  */
 public class MedianFinder {
 
-    PriorityQueue<Integer> minPq = new PriorityQueue<>();
-    PriorityQueue<Integer> maxPq = new PriorityQueue<>();
+    private PriorityQueue<Integer> minPq = new PriorityQueue<>();
+    private PriorityQueue<Integer> maxPq = new PriorityQueue<>();
 
     public MedianFinder() {
         minPq = new PriorityQueue<>();

@@ -5,12 +5,14 @@ import java.util.Map;
 import java.util.TreeMap;
 
 public class Application {
+
 	public static void main(String[] args){
 		//int[] input = {};
 		System.out.println(findPossibleSmallestNumberMatchingPattern("MNMMM"));
-        
+
+
 	}
-	
+
 	private static int findPossibleSmallestNumberMatchingPattern(String pattern) {
 		if(pattern == null){
 			return -1;
@@ -92,16 +94,7 @@ public class Application {
             count[i]++;
         }
     }
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	static String findQualifiedNumbers(int[] numberArray) {
 		Arrays.sort(numberArray);
 		String str = "";

@@ -1,7 +1,7 @@
 package searching;
 
 public class StringInMatrix {
-	public static boolean findBiggestRegion(char[][] array, String str){
+	private static boolean findBiggestRegion(char[][] array, String str){
 		int pos=0;
 		boolean exist = false;
 		for(int row=0;row<array.length;row++){
@@ -11,7 +11,7 @@ public class StringInMatrix {
 					boolean[][] visited = new boolean[array.length][array[0].length];
 					visited[row][column]=true;
 					exist = getRegionSize(array,row,column,str,pos+1,visited);
-					if(exist==true)
+					if(exist)
 						return true;
 				}
 			}
@@ -29,21 +29,18 @@ public class StringInMatrix {
 		
 		for(int r=row-1; r<=row+1;r++){
 			for(int c=column-1; c<=column+1;c++){
-				if(r<0 || c < 0 || r >= array.length || c >=array[r].length || (row==r && column==c)){
-				}else{
+				if(!(r<0 || c < 0 || r >= array.length || c >=array[r].length || (row==r && column==c))){
 					if(array[r][c]==str.charAt(pos) && !visited[r][c]){
 						System.out.println(str.charAt(pos));
 						visited[r][c] = true;
 						boolean exist = getRegionSize(array,r,c,str,pos+1,visited);
-						if(exist==true){
+						if(exist){
 							return true;
 						}
 					}
 				}
-
 			}
 		}
-		
 		return false;
 	}
 

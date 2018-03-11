@@ -302,7 +302,7 @@ public class SuffixTree {
             for(int i=root.start; i <= root.end.end; i++){
                 result.add(input[i]);
             }
-            result.stream().forEach(System.out::print);
+            result.forEach(System.out::print);
             System.out.println(" " + root.index);
             for(int i=root.start; i <= root.end.end; i++){
                 result.remove(result.size()-1);
@@ -421,6 +421,7 @@ class Active{
         activeLength = 0;
         activeNode = node;
         activeEdge = -1;
+
     }
     
     @Override
