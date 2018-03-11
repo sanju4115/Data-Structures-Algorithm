@@ -10,6 +10,8 @@ public class Application {
 		int[] input3 = {};
 		int[] input1 = {};
 		int[] input2 = {};
+
+		//merge1
 		System.out.println(findPossibleSmallestNumberMatchingPattern("MNMMM"));
 
 
