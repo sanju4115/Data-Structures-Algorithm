@@ -7,7 +7,9 @@ import java.util.TreeMap;
 public class Application {
 
 	public static void main(String[] args){
-		int[] input = {};
+		int[] input3 = {};
+		int[] input1 = {};
+		int[] input2 = {};
 		System.out.println(findPossibleSmallestNumberMatchingPattern("MNMMM"));
 
 
