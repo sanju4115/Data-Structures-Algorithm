@@ -1,6 +1,8 @@
 package sorting;
 
 public class Sorting {
+
+	//merge3
 	
 	public static void insertionSort(int arr[]){
 		for(int i=1;i<arr.length-1;i++){

@@ -10,13 +10,11 @@ public class Application {
 		int[] input3 = {};
 		int[] input1 = {};
 		int[] input2 = {};
-
 		//merge2
-
 		//merge1
+
+		//merge3
 		System.out.println(findPossibleSmallestNumberMatchingPattern("MNMMM"));
-
-
 	}
 
 	private static int findPossibleSmallestNumberMatchingPattern(String pattern) {
